@@ -1,3 +1,5 @@
+# Eduardo Silva Contin  
+# Fabricio
 
 x = int(input("Digite um valor para X:"))
 
