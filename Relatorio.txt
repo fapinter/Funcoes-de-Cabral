@@ -1,0 +1,17 @@
+Digite um valor para X:1
+Funcao FoG -100    
+funcao GoF -45     
+funcao FoF -8      
+funcao GoG 2255    
+
+Digite um valor para X:2
+Funcao FoG -94 
+funcao GoF -49 
+funcao FoF -4  
+funcao GoG 1976
+
+Digite um valor para X:3
+Funcao FoG -84
+funcao GoF -45
+funcao FoF 0
+funcao GoG 1551
